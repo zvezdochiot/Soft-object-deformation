@@ -1,6 +1,10 @@
 #ifndef __myImage_h
 #define __myImage_h
 
+#include <fstream>
+#include <iostream>
+#include <string.h>
+
 class Image
 {
 	int w;

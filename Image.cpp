@@ -1,6 +1,4 @@
 #include "Image.h"
-#include <fstream>
-#include <iostream>
 
 Image::Image(int width, int height): w(width), h(height)
 {
